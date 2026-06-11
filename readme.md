@@ -222,8 +222,8 @@ Arranca el servidor web local:
 ```bash
 streamlit run app.py
 ```
-> [!INFORMATION]
-> **Automáticamente abre:** `http://localhost:8501`
+> [!NOTE]
+> Automáticamente abre: `http://localhost:8501`
 
 ---
 
