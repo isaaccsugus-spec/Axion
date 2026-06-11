@@ -11,8 +11,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-**[Inicio Rápido](#-inicio-rápido)** • **[Características](#-características-principales)** • **[Arquitectura](#-arquitectura-del-sistema-y-funcionamiento)** • **[Guía de Uso](#-instrucciones-de-uso-diario)**
-
+**[Inicio Rápido](#instalación-y-configuración-paso-a-paso)** • **[Características](#características-principales)** • **[Arquitectura](#arquitectura-del-sistema-y-funcionamiento)** • **[Guía de Uso](#instrucciones-de-uso-diario)**
 </div>
 
 ---
@@ -153,11 +152,11 @@ El verdadero poder de AXION radica en cómo gestiona y vende la complejidad téc
 
 ### Bloques de Contexto Disponibles
 
-|  Bloque |  Stack Técnico | Fortalezas Proyectadas                                                                                           |
-|:---:|:---:|:-----------------------------------------------------------------------------------------------------------------|
-| ** NEURO-FOCUS** <br/> *(TFC Principal)* | OpenCV • MediaPipe<br/>Filtros de Kalman<br/>PySerial • Hardware Biométrico | Lógica dura<br/> Matemáticas avanzadas<br/> Control bajo nivel<br/>→ *Ideal: C++, Backend, Sistemas*             |
-| ** VIRTUAL REALITY** <br/> *(Especialización)* | WebXR • Real-time Optimization<br/>Arquitectura OOP avanzada<br/>Gestión de memoria | Asimilación rápida<br/> Arquitecturas complejas<br/> Performance expertise<br/>→ *Ideal: Game Dev, 3D, Graphics* |
-| ** SOFT SKILLS** <br/> *(Diferenciador)* | Artes marciales • Competición<br/>Resiliencia probada<br/>Disciplina extrema | Aprendizaje ultrarrápido<br/> Adaptabilidad<br/> Mentalidad de crecimiento<br/>→ *Ideal: Startups, Escalada*     |
+|                  Bloque                  |  Stack Técnico | Fortalezas Proyectadas                                                                                           |
+|:----------------------------------------:|:---:|:-----------------------------------------------------------------------------------------------------------------|
+|   NEURO-FOCUS <br/> *(TFC Principal)*    | OpenCV • MediaPipe<br/>Filtros de Kalman<br/>PySerial • Hardware Biométrico | Lógica dura<br/> Matemáticas avanzadas<br/> Control bajo nivel<br/>→ *Ideal: C++, Backend, Sistemas*             |
+| VIRTUAL REALITY<br/> *(Especialización)* | WebXR • Real-time Optimization<br/>Arquitectura OOP avanzada<br/>Gestión de memoria | Asimilación rápida<br/> Arquitecturas complejas<br/> Performance expertise<br/>→ *Ideal: Game Dev, 3D, Graphics* |
+|    SOFT SKILLS<br/> *(Diferenciador)*    | Artes marciales • Competición<br/>Resiliencia probada<br/>Disciplina extrema | Aprendizaje ultrarrápido<br/> Adaptabilidad<br/> Mentalidad de crecimiento<br/>→ *Ideal: Startups, Escalada*     |
 
 ---
 
@@ -169,12 +168,12 @@ Sigue estos pasos para levantar tu propia instancia corporativa de AXION en tu m
 
 <div align="center">
 
-|    Requisito    | Versión Mínima |
-|:---------------:|:---:|
-|     Python      | 3.10+ |
-|     Ollama      | Latest |
-| Almacenamiento  | 10GB (modelo + datos) |
-|     🖥 RAM      | 8GB (16GB recomendado) |
+|   Requisito    | Versión Mínima |
+|:--------------:|:---:|
+|     Python     | 3.10+ |
+|     Ollama     | Latest |
+| Almacenamiento | 10GB (modelo + datos) |
+|      RAM     | 8GB (16GB recomendado) |
 
 </div>
 
@@ -223,7 +222,7 @@ Arranca el servidor web local:
 ```bash
 streamlit run app.py
 ```
-> [!INFO]
+> [!INFORMATION]
 > **Automáticamente abre:** `http://localhost:8501`
 
 ---
@@ -347,7 +346,7 @@ streamlit run app.py
 
 ###  Hecho por Isaac
 
-*"La verdadera IA es invisible. La que resuelve tu problema sin que tengas que pensar en ella."*
+*"La verdadera IA es invisiblE ya que es aquella que resuelve tu problema sin que tengas que pensar en ella."*
 
 ![AXION Badge](https://img.shields.io/badge/AXION-Ready-brightgreen?style=flat-square&logo=quantum&label=Status)
 
