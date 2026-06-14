@@ -1,0 +1,12 @@
+Estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+Próximamente Máster en IA en Tajamar.
+
+Proyecto Final de Ciclo (TFC): Creador de "Neuro-Focus", un sistema de accesibilidad universal que fusiona Visión Artificial, filtros matemáticos (Kalman) e integración de hardware biométrico (telemetría y puertos serie) para control del Sistema Operativo. Tecnologías: Python, OpenCV, MediaPipe, PyAutoGUI, PySerial.
+
+Experiencia destacada: Desarrollo de un proyecto de Realidad Virtual (VR) durante las prácticas en La Salle (Unity y WebXR), aplicando lógica de programación avanzada, rendimiento y orientación a objetos.
+
+Experiencia laboral: Soporte y resolución de incidencias tecnológicas bajo presión en el CAU de El Corte Inglés. (Anteriormente experiencia en atención al cliente y frescos en Carrefour, demostrando polivalencia).
+
+Tecnologías principales: Python para Data Science, Machine Learning (Random Forest), creación de APIs ultrarrápidas con FastAPI, programación orientada a objetos.
+
+Actitud y Soft Skills: Férrea disciplina personal y deportiva (artes marciales y competición), alta resiliencia, tolerancia al estrés y capacidad de resolución de problemas complejos.
